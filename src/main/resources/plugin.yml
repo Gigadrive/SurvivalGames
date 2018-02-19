@@ -1,0 +1,10 @@
+name: SurvivalGames
+author: Zeryther
+version: 1.0
+website: https://thechest.eu
+main: eu.thechest.survivalgames.SurvivalGames
+depend: [ChestAPI, HolographicDisplays]
+
+commands:
+  setlobby:
+    description: Define the lobby location
